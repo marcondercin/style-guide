@@ -21,6 +21,7 @@ body {
 }
 
 .section-title {
+    margin-top: 5%;
     margin-left: 1%;
 }
 
@@ -43,3 +44,17 @@ h3 {
 .j {background-color: #BE8B09;}
 .k {background-color: #FFFFFF;}
 .l {background-color: #68757B;}
+
+.font-container {
+    display: flex;
+}
+
+.font {margin-left: 5%;}
+.verdana {font-family: Verdana;}
+.geneva {font-family: Geneva;}
+.tahoma {font-family: Tahoma;}
+
+.normal-weight {font-weight: normal;}
+.bold-weight {font-weight: bold;}
+.italics {font-style: italic;}
+strong {text-decoration: underline;}
