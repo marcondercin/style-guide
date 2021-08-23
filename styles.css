@@ -57,4 +57,4 @@ h3 {
 .normal-weight {font-weight: normal;}
 .bold-weight {font-weight: bold;}
 .italics {font-style: italic;}
-strong {text-decoration: underline;}
+strong {text-decoration: underline; font-size: 18px;}
