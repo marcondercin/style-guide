@@ -1,0 +1,21 @@
+.color-container {
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.color-box {
+    height: 100px;
+    width: 225px;
+    border: 1px solid black;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.color-text {
+    text-align: center;
+}
