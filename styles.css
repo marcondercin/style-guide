@@ -20,8 +20,9 @@ h3 {
     margin-left: 2%;
 }
 
-.color-text-white {color: white;}
-.color-text-black {color: black;}
+.color-text {font-size: 18px;}
+.white {color: white;}
+.black {color: black;}
 .a {background-color: #131313;}
 .b {background-color: #2B2B2B;}
 .c {background-color: #86868B;}
@@ -30,4 +31,7 @@ h3 {
 .f {background-color: #693BCC;}
 .g {background-color: #CB1F9C;}
 .h {background-color: #F35F1C;}
-
+.i {background-color: #1E6BA2;}
+.j {background-color: #BE8B09;}
+.k {background-color: #FFFFFF;}
+.l {background-color: #68757B;}
