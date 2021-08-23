@@ -9,13 +9,25 @@
 .color-box {
     height: 100px;
     width: 225px;
-    border: 1px solid black;
+    border: 2px solid black;
     margin: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.color-text {
-    text-align: center;
+h3 {
+    margin-left: 2%;
 }
+
+.color-text-white {color: white;}
+.color-text-black {color: black;}
+.a {background-color: #131313;}
+.b {background-color: #2B2B2B;}
+.c {background-color: #86868B;}
+.d {background-color: #1561F0;}
+.e {background-color: #20123A;}
+.f {background-color: #693BCC;}
+.g {background-color: #CB1F9C;}
+.h {background-color: #F35F1C;}
+
