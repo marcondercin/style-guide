@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -53,8 +55,10 @@ h3 {
 .verdana {font-family: Verdana;}
 .geneva {font-family: Geneva;}
 .tahoma {font-family: Tahoma;}
+.open-sans {font-family: 'Open Sans';}
 
 .normal-weight {font-weight: normal;}
 .bold-weight {font-weight: bold;}
 .italics {font-style: italic;}
+.light {font-weight: lighter;}
 strong {text-decoration: underline; font-size: 18px;}
